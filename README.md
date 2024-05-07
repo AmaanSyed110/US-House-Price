@@ -1,6 +1,2 @@
-Read Below Instructions Carefully
-
-Load all the libraries carefully
-Upload the dataset in google drive so that you don't need to upload the dataset everytime you execute the program.
-Handle missing values properly as they play a major role in determining the accuracy of the model.
-Make sure to restart and run the notebook from start if you make any changes in between the notebook.
+## **Project Description**
+This repository contains a machine learning project that aims to build a model to explain how various demand and supply factors have influenced house prices in the United States over the past 20 years. By analyzing the relationship between demand and supply factors and house prices, this project aims to provide insights into the dynamics of the housing market and the key drivers influencing home prices. The findings can be valuable for policymakers, real estate professionals, and individuals interested in understanding and forecasting housing market trends.
